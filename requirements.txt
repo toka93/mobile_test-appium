@@ -1,0 +1,6 @@
+
+pytest==6.2.4 ; python_version =='3.6'
+pytest>6.2.4 ; python_version >='3.7'
+selenium==4.5.0
+Appium_Python_Client==2.7.1
+pytest-html==3.2.0
