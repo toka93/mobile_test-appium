@@ -1,0 +1,8 @@
+{
+    "platformVersion": "11.0",
+ 	"deviceName": "Android Emulator",
+ 	"platformName":"Android",
+	"appPackage": "com.android2.calculator3",
+	"appActivity": "com.xlythe.calculator.material.Theme.Orange",
+	"app": "D:\\stuff\\mine\\AutomationTask\\Calculator.apk"
+}
